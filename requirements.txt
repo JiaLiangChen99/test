@@ -1,2 +1,5 @@
 streamlit
-pandas
+extra_streamlit
+requests
+json
+tinydb
